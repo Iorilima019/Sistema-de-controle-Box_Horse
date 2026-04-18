@@ -1,0 +1,5 @@
+﻿A construção começou em 22:00...
+1>------ Compilação iniciada: Projeto: Sistema de controle Box Horse, Configuração: Debug Any CPU ------
+1>  Sistema de controle Box Horse -> C:\Users\iori.lgtaneno\source\repos\Sistema de controle Box Horse\Sistema de controle Box Horse\bin\Debug\Sistema de controle Box Horse.exe
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação concluído às 22:00 e levou 03,102 segundos ==========
